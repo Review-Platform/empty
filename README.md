@@ -13,10 +13,11 @@ Back-End
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/QueryDsl-40AEF0?style=flat">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 </div>
 
 Etc
 <div>
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white">
 </div>
